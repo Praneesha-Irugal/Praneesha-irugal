@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust,GO**
 
-- 💬 Ask me about **python, react, Django**
+- 💬 Ask me about **React, UI, UX, Python**
 
 - 📫 How to reach me **irugal.praneesha@gmail.com**
 
