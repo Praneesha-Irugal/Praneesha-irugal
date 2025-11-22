@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praneesha</h1>
 <h3 align="center">A passionate IT Project Manager</h3>
 
-- 🌱 I’m currently learning **Rust,GO**
+
 
 - 💬 Ask me about **React, UI, UX, Python**
 
-- 📫 How to reach me **irugal.praneesha@gmail.com**
+- 📫 How to reach me **contact@praneesha.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
